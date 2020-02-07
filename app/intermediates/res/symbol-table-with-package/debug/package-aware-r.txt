@@ -1,0 +1,4 @@
+com.renan.notas_diarias
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme
